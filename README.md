@@ -13,19 +13,20 @@ This app will modify the content as to increment the content to 1 by clicking 1,
 The Screenshots are:
 - Increment:
 
-
+  ![alt text](./assets/increment.jpeg)
 
 - Decrement:
 
-
+  ![alt text](./assets/decrement.jpeg)
 
 - Reset:
 
-
+  ![alt text](./assets/reset.jpeg)
 
 - Square:
 
-
+  ![alt text](./assets/square.jpeg)
 
 - Cube:
 
+  ![alt text](./assets/cube.jpeg)
